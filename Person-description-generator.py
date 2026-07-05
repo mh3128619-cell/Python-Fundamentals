@@ -1,0 +1,7 @@
+name=input("Enter the name:")
+adjective1=input("Enter the first adjective ")
+adjective2=input("Enter the second adjective")
+adjective3=input("Enter the third adjective")
+print(name+" is an "+adjective1+" man")
+print(name+"  loves "+adjective2)
+print("So he is "+adjective3)
